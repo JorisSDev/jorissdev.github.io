@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://jorissdev.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://jorissdev.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 17:53:25 +0300</lastBuildDate>
-    <atom:link href="https://jorissdev.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Info page</title>
-      <link>https://jorissdev.github.io/information/sus/</link>
-      <pubDate>Tue, 24 Sep 2024 17:53:25 +0300</pubDate>
-      <guid>https://jorissdev.github.io/information/sus/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 24 Sep 2024 16:41:23 +0300</lastBuildDate>
+    <atom:link href="https://jorissdev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second_page</title>
       <link>https://jorissdev.github.io/posts/second_page/</link>
