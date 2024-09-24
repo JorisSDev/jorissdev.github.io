@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jorissdev.github.io/</loc>
+    <lastmod>2024-09-24T16:41:23+03:00</lastmod>
+  </url><url>
+    <loc>https://jorissdev.github.io/post/</loc>
+    <lastmod>2024-09-24T16:41:23+03:00</lastmod>
+  </url><url>
+    <loc>https://jorissdev.github.io/post/second_page/</loc>
+    <lastmod>2024-09-24T16:41:23+03:00</lastmod>
+  </url><url>
+    <loc>https://jorissdev.github.io/post/myblog/</loc>
+    <lastmod>2024-09-18T19:30:38+03:00</lastmod>
+  </url><url>
+    <loc>https://jorissdev.github.io/categories/</loc>
+  </url><url>
+    <loc>https://jorissdev.github.io/tags/</loc>
+  </url>
+</urlset>
